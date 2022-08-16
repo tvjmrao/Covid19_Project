@@ -1,6 +1,6 @@
 Project: 
 
-Analyzing the trends of COVID-19 with Pyhton
+Analyzing the trends of COVID-19 with Python
 
 Problem Statement:
 
